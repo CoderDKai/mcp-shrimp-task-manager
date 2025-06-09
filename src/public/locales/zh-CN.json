@@ -14,7 +14,7 @@
   "status_filter_pending": "等待中",
   "status_filter_in_progress": "进行中",
   "status_filter_completed": "已完成",
-  "task_list_loading": "载入中...",
+  "task_list_loading": "加载中...",
   "task_list_empty": "没有符合条件的任务",
   "task_details_title": "任务详情",
   "task_details_placeholder": "选择一个任务查看详情",
@@ -48,8 +48,8 @@
 
   "global_analysis_title": "目标",
 
-  "error_loading_tasks": "载入任务失败: {message}",
+  "error_loading_tasks": "加载任务失败: {message}",
   "error_updating_tasks": "更新任务失败: {message}",
-  "error_loading_graph": "载入依赖图失败",
+  "error_loading_graph": "加载依赖图失败",
   "error_task_not_found": "任务未找到"
 }
